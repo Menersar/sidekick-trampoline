@@ -4,4 +4,7 @@ Purpose-built proxy and cache for the Scratch API. It is used by [forkphorus](ht
 
 The app assumes it's behind a reverse proxy such as nginx.
 
-An instance of this service is hosted at https://trampoline.turbowarp.org/
+An instance of this service is hosted at <https://trampoline.turbowarp.org/>.
+<!-- !!! CHANGE !!! -->
+<!-- An instance of this service is hosted at <https://mixality.github.io/Sidekick/trampoline/> -->
+A Sidekick instance of this service is hosted at <https://menersar.github.io/Sidekick/trampoline/>.
