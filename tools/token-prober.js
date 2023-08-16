@@ -11,9 +11,9 @@ const ID = '10128407';
 
 const SCRATCH_API = 'https://api.scratch.mit.edu/projects/$id';
 // !!! t CHANGE !!!
-// const TRAMPOLINE_API = 'https://trampoline.turbowarp.org/proxy/projects/$id';
+const TRAMPOLINE_API = 'https://trampoline.turbowarp.org/proxy/projects/$id';
 // const TRAMPOLINE_API = 'https://mixality.github.io/Sidekick/trampoline/proxy/projects/$id';
-const TRAMPOLINE_API = 'https://menersar.github.io/Sidekick/trampoline/proxy/projects/$id';
+// const TRAMPOLINE_API = 'https://menersar.github.io/Sidekick/trampoline/proxy/projects/$id';
 // !!! NEU
 const LOCALHOST_API = 'http://localhost:8080/proxy/projects/$id';
 // const LOCALHOST_API = 'http://0.0.0.0:8080/proxy/projects/$id';
